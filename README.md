@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
  - 📫 You can find me on  [![LinkedIn][3.2]][3].
@@ -7,6 +7,7 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
  - 💬 Ask me about Problem solving.
  - 😄 Pronouns: She/her ⚡ 
 
+#### also do check out my Portfolio Webpage @ https://tuntai.github.io/aparajita-paul.github.io/
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Tuntai">
