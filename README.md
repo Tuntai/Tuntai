@@ -8,8 +8,6 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
   <a href="mailto:aparajitapaul98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- <a href="https://github.com/rahulotwani"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
- <a href="mailto:rahulotwani7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
  - 🔭 I’m currently working on projects using CSS, Javascript, Django.
  - 🌱 I’m currently learning PHP, Html.
  - 💬 Ask me about Problem solving.
