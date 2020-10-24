@@ -7,6 +7,7 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
  <p align='center'>
  <a href="https://www.linkedin.com/in/aparajita-paul98/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aparajitapaul98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.quora.com/profile/APARAJITA-PAUL-8"><img src="https://img.shields.io/badge/Quora-%23D14836.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center"> 🔭 I’m currently working on :computer: </h3>
@@ -17,12 +18,16 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
   <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/python.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/cplusplus.svg"></code>&nbsp;&nbsp;
+ <code><img height="30" src="https://simpleicons.org/icons/gitlab.svg"></code>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">  🌱 I’m currently learning :memo: </h3>
 <p align="center">
   <code><img height="30" src="http://simpleicons.org/icons/php.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="http://simpleicons.org/icons/css3.svg"></code>&nbsp;&nbsp;
+ <code><img height="30" src="https://simpleicons.org/icons/git.svg"></code>&nbsp;&nbsp;
+ <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
+ <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
 </p>
 
 #### also do check out my Portfolio Webpage @ https://tuntai.github.io/aparajita-paul.github.io/
