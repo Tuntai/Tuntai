@@ -10,20 +10,18 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
 </p>
  <h3 align="center"> 🔭 I’m currently working on </h3>
 <p align="center">
-<br>
   <code><img height="30" src="http://simpleicons.org/icons/awesomelists.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/javascript.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/django.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/python.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://simpleicons.org/icons/cplusplus.svg"></code>&nbsp;&nbsp;
-</p><br>
+</p>
  <h3 align="center">  🌱 I’m currently learning  </h3>
 <p align="center">
-<br>
   <code><img height="30" src="http://simpleicons.org/icons/php.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="http://simpleicons.org/icons/css3.svg"></code>&nbsp;&nbsp;
-</p><br>
+</p>
 
 #### also do check out my Portfolio Webpage @ https://tuntai.github.io/aparajita-paul.github.io/
 ## &#x1f4c8; GitHub Stats
