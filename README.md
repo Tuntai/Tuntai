@@ -1,7 +1,15 @@
 ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
- - 📫 You can find me on  [![LinkedIn][3.2]][3].
+
+ <h3  align='center'> You can find me on 📫 </h3>
+ <p align='center'>
+ <a href="https://www.linkedin.com/in/aparajita-paul98/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aparajitapaul98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+ <a href="https://github.com/rahulotwani"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="mailto:rahulotwani7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
  - 🔭 I’m currently working on projects using CSS, Javascript, Django.
  - 🌱 I’m currently learning PHP, Html.
  - 💬 Ask me about Problem solving.
