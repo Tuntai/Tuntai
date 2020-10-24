@@ -35,5 +35,4 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tunai's GitHub Stats" />
 </a>
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3]: https://www.linkedin.com/in/aparajita-paul98/
+
