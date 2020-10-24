@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Tuntai/Tuntai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
+ - 📫 You can find me on  [![LinkedIn][3.2]][3].
+ - 🔭 I’m currently working on projects using CSS, Javascript, Django.
+ - 🌱 I’m currently learning PHP, Html.
+ - 💬 Ask me about Problem solving.
+ - 😄 Pronouns: She/her ⚡ 
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Tuntai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Tuntai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tunai's GitHub Stats" />
+</a>
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3]: https://www.linkedin.com/in/aparajita-paul98/
