@@ -39,4 +39,4 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
 </p>
 
 #### also do check out my Portfolio Webpage @ https://tuntai.github.io/aparajita-paul.github.io/
-<p><code><img height="25" src="https://komarev.com/ghpvc/?username=Tuntai7&color=red"></code></p>
+<p><code><img height="25" src="https://komarev.com/ghpvc/?username=Tuntai&color=red"></code></p>
