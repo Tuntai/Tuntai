@@ -4,10 +4,10 @@ My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from N
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Tuntai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html&title_color=ff0000f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Tuntai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=ff000&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tuntai's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tuntai's GitHub Stats" />
 </a>
 
  <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
