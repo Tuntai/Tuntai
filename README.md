@@ -17,7 +17,7 @@
 <hr>
  <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
  <p align='center'>
- <a href="https://www.linkedin.com/in/aparajita-paul98/" target="_blank"><i class="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/aparajita-paul98/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aparajitapaul98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/tuntai_11/"><img height="25" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.quora.com/profile/APARAJITA-PAUL-8"><img src="https://img.shields.io/badge/Quora-%23D14836.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
