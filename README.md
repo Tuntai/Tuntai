@@ -1,4 +1,5 @@
-<head >
+<head > 
+   <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
   
   ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
