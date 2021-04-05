@@ -39,7 +39,7 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    
    <a href="https://devfolio.co/@aparajita11">
-      <img src="https://img.shields.io/badge/Quora-%23D14836.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
+      <img height="25" src="https://gblobscdn.gitbook.com/spaces%2F-LX2wpUXI1eWMY46nkHR%2Favatar-rectangle.png?alt=media"/>
    </a>&nbsp;&nbsp;&nbsp;&nbsp; 
    
 </p>
