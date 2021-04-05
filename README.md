@@ -43,24 +43,29 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
    </a>&nbsp;&nbsp;&nbsp;&nbsp; 
    
 </p>
+<hr>
+
+<!-- Technology I use -->
 
 ## 🔧 Technologies & Tools
 
-<h3 align="center"> 🔭 I’m currently working on :computer: </h3>
+<h3 align="center"> :computer: I’m currently working on  </h3>
 <p align="center">
   <code><img height="30" src="http://simpleicons.org/icons/awesomelists.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="https://simpleicons.org/icons/javascript.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="https://simpleicons.org/icons/django.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="https://simpleicons.org/icons/python.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="https://simpleicons.org/icons/cplusplus.svg"></code>&nbsp;&nbsp;
- <code><img height="30" src="https://simpleicons.org/icons/gitlab.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="http://simpleicons.org/icons/css3.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/javascript.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/python.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/django.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/flask.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/cplusplus.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/gitlab.svg"></code>&nbsp;&nbsp;
 </p>
 
-<h3 align="center">  🌱 I’m currently learning :memo: </h3>
+<h3 align="center">  🌱 I’m currently learning  </h3>
 <p align="center">
   <code><img height="30" src="http://simpleicons.org/icons/php.svg"></code>&nbsp;&nbsp;
-  <code><img height="30" src="http://simpleicons.org/icons/css3.svg"></code>&nbsp;&nbsp;
+  
  <code><img height="30" src="https://simpleicons.org/icons/git.svg"></code>&nbsp;&nbsp;
  <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
  <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
