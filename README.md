@@ -1,16 +1,22 @@
-<head > 
-   <div align="center">
-   <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" /></div>
+<!-- header Gif -->
+
+<div align="center">
+   <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
+</div>
+
+<!-- Intro -->
+
+### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+Aparajita (Pronouns: She/her ⚡) Here! An undergraduate student from NIT Durgapur, currently in my final year.<br>
+I've always been a curious student, a fast learner, and the most enthusiastic in the group. You can Check out my Devfolio at [aparajita11](https://devfolio.co/@aparajita11).
   
-  ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
-  - 😄 Pronouns: She/her ⚡ :princess:
-</head>
 <hr>
 
+<!-- Github Stats -->
+
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Tuntai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Tuntai/Tuntai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html,scss&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Tuntai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tuntai's GitHub Stats" />
