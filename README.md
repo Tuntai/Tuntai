@@ -45,5 +45,5 @@
 </p>
 <hr>
 
-#### also do check out my Portfolio Webpage @ https://tuntai.github.io/aparajita-paul.github.io/
+
 <p><code><img height="25" src="https://komarev.com/ghpvc/?username=Tuntai&color=red"></code></p>
