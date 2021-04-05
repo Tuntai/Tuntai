@@ -18,12 +18,14 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
 <a href="https://github.com/Tuntai/Tuntai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntai&hide=java,html,scss&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Tuntai">
+
+<a href="https://github.com/Tuntai/Tuntai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tuntai's GitHub Stats" />
 </a>
 
 <hr>
- <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
+<!-- Contact -->
+## :globe_with_meridians: You can find me on 
  <p align='center'>
  <a href="https://www.linkedin.com/in/aparajita-paul98/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aparajitapaul98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
