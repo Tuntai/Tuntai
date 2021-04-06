@@ -23,8 +23,6 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuntai&show_icons=true&line_height=27&count_private=true&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tuntai's GitHub Stats" />
 </a>
 
-
-
 <hr>
 <!-- Contact -->
 
@@ -43,6 +41,7 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
    </a>&nbsp;&nbsp;&nbsp;&nbsp; 
    
 </p>
+
 <hr>
 
 <!-- Technology I use -->
@@ -51,7 +50,7 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
 
 <h3 align="center"> :computer: I’m currently working on  </h3>
 <p align="center">
-  <code><img height="30" src="http://simpleicons.org/icons/awesomelists.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="http://simpleicons.org/icons/awesomelists.svg"></code>&nbsp;&nbsp;
    <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>&nbsp;&nbsp;
    <code><img height="30" src="http://simpleicons.org/icons/css3.svg"></code>&nbsp;&nbsp;
    <code><img height="30" src="https://simpleicons.org/icons/javascript.svg"></code>&nbsp;&nbsp;
@@ -65,7 +64,6 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
 <p align="center">
    <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
    <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
-   <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
 </p>
 <hr>
 
