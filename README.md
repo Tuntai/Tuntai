@@ -63,8 +63,9 @@ I've always been a curious student, a fast learner, and the most enthusiastic in
 
 <h3 align="center">  🌱 I’m currently learning  </h3>
 <p align="center">
- <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
- <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
+   <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>&nbsp;&nbsp;
 </p>
 <hr>
 
