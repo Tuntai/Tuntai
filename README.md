@@ -8,7 +8,7 @@
 
 ### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 Aparajita (Pronouns: She/her ⚡) Here! An undergraduate student from NIT Durgapur, currently in my final year.<br>
-I've always been a curious student, a fast learner, and the most enthusiastic in the group. You can Check out my Devfolio at [aparajita11](https://devfolio.co/@aparajita11).
+I've always been a curious student, a fast learner, and the most enthusiastic in the group. You can Check out my Portfolio at [Aparajita Paul](https://tuntai.github.io/).
   
 <hr>
 
